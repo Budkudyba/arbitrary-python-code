@@ -1,6 +1,6 @@
 # arbitrary-python-code
 This is a collection of simple python scripts to show some basic compatency.  
-Some of this code is stale.
+Some of this code is stale and the descriptions my not be accurate.
 
 
 mfcc2file.py  
