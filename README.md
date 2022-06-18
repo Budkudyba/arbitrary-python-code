@@ -7,7 +7,7 @@ mfcc2file.py
 Converts all .wav to a MalSpectrum svg image
 
 tracks5.py / track.py  
-Uses a raspberry pi with attached camera to automatically identify a circle object (pingpongball). adjust a color threshold for faster real time compute, and then give screen coordinates of the object.
+Uses a raspberry pi with attached camera to automatically identify a circle object (a pingpongball) via HoughCirle, Adjusts a color threshold for faster real time compute, and then gives screen coordinates of the object.
 
 jasper_v1.py  
 Samples 5 seconds of sound via microphone input, then uses a speech recogntition to output text
